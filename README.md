@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @twhittall
-- 👀 I’m interested in learning javascript and web accessibilty
+- 👀 I’m interested in web accessibilty
 - 🌱 I’m currently learning javascript, http, css
 - 💞️ I’m currently a learning experience designer with no coding background
 - 📫 How to reach me ...
